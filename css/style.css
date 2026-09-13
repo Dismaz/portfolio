@@ -87,10 +87,11 @@ h2 {
     margin: 0 0 0 180px;
     padding: 35px 40px 30px 0px;
     color: #444444;
-    font-family: "Georgia";
+    font-family: "Georgia, serif";
     font-size: 13px;
     line-height: 18px;
     text-emphasis: justify;
+    font-variant-numeric: lining-nums tabular-nums;
 
 }
 
